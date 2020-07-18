@@ -13,6 +13,7 @@
 result_dir = '/content/drive/My Drive/code/stylegan/results'
 data_dir = 'datasets'
 cache_dir = 'cache'
+
 run_dir_ignore = ['/content/drive/My Drive/code/stylegan/results', 'datasets', 'cache']
 
 #----------------------------------------------------------------------------
