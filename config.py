@@ -10,10 +10,9 @@
 #----------------------------------------------------------------------------
 # Paths.
 
-result_dir = '/content/drive/My Drive/code/stylegan/results'
-data_dir = '/content/stylegan/datasets'
-cache_dir = '/content/stylegan/cache'
-
-run_dir_ignore = ['/content/drive/My Drive/code/stylegan/results', '/content/stylegan/datasets', '/content/stylegan/cache']
+result_dir = 'results'
+data_dir = 'datasets'
+cache_dir = 'cache'
+run_dir_ignore = ['results', 'datasets', 'cache']
 
 #----------------------------------------------------------------------------
